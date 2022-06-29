@@ -1,5 +1,5 @@
 # progress-matlab
-Progress: a progress bar for Matlab
+Progress: a progress bar for Matlab\
 Writes a text progress bar to the console
 
 ## Syntax:
